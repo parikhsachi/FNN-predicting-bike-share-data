@@ -1,4 +1,4 @@
-# udacity-bike-share-project
+## Bike Share Project
 # Udacity Deep Learning Nanodegree:
 Built my first neural network from scratch to carry out a prediction problem on bike-share company's dataset. 
 # How to run:
