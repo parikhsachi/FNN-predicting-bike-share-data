@@ -1,6 +1,6 @@
 # Bike Share Project:
 ## Udacity Deep Learning Nanodegree
-Built my first neural network from scratch to carry out a prediction problem on bike-share company's dataset. 
+Built a feedforward neural network from scratch to carry out a prediction problem on bike-share company's dataset. 
 # How to run:
 1) Install pip
 2) Install jupyter notebooks from pip by running the command "pip3 install jupyter" in the terminal
